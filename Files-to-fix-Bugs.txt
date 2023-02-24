@@ -1,0 +1,18 @@
+# somewhat of a camera fixer
+in system delete all camera files lib lib64 bin priv-app etc 
+
+delete also all arcsoft libs
+
+and just copy all of the libs back from Stock-files/system 
+#
+
+# for BT 
+
+copy the apex from Stock-files/system/apex to your system/apex
+
+then for libs just copy them and it work
+#
+
+also copy all the Stock-files/system/etc files to your system
+
+hope this worked for u
