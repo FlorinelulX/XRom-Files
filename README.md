@@ -21,7 +21,7 @@ Securefolder_fix
 #
 how to make
 Download S21 Firmware
-use Link to unpack its firmware
+use CRB to unpack its firmware
 use deleted-apps.txt
 use Files-to-fix-Bugs.txt
 build it back to an img 
