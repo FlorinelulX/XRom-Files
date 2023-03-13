@@ -28,4 +28,4 @@ build it back to an img
 flash with fastboot or TWRP
 Download Stock-Files from: https://drive.google.com/drive/folders/1_EulEQnZ7m7mBr1G18By47DytW1zIEUk?usp=share_link
 Download Custom-Mods From: https://drive.google.com/file/d/12YcCwsTjc59rBCi6OJrGiLt_LUt8lgLw/view?usp=share_link
-this was only tested on Galaxy A51
+This was only tested on Galaxy A51
